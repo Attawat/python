@@ -1,4 +1,4 @@
-# ==, <>, !=, <, >, <=, >=, not, and, or
+# ==, (<>, !=), <, >, <=, >=, not, and, or
 score = 75
 # if score > 70:
 #     print("good")
